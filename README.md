@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 	<head>
@@ -26,3 +27,7 @@
 		</footer>
 	</body>
 </html>
+=======
+# PersonalBrand
+Sito dedicato alla costruzione del mio Personal Brand. In queste pagine sono raccolti link e informazioni utili per la gestione del proprio Portfolio.
+>>>>>>> parent of 1b865eb... Set theme jekyll-theme-minimal
